@@ -1,3 +1,5 @@
+#tag :
+#{#Open_Source_GIT__LISCE_____GAME__TO__[NAME]}
 import random
 
 def game_win(comp , user ):
