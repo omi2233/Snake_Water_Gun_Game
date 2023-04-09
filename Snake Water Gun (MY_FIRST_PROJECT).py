@@ -34,7 +34,7 @@ elif "G"in user :
     print("computer is choosing ...... ")
 else :
     print("Invalid Choice")
-    
+ks = "omi(s)"#Do not remove this . important variable function
     
 comp = "S"
 
